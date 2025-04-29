@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&display=swap");
-
+/*
 :root {
   --blue: #136a8a;
   --green: #267871;
@@ -13,6 +13,26 @@
   --loading-bg-1: #c2cfd6;
   --loading-bg-2: #f0f3f5;
 }
+
+*/
+
+:root {
+  --blue: #c0392b; /* Deeper blue */
+  --green: #e74c3c; /* Softer teal */
+  --white: #ffffff;
+  --exchange-rate-color: #6b6b6b; /* Slightly darker for better readability */
+  --input-background: rgba(192, 57, 43, 0.05); /* lightblue with transparency */
+  --input-shadow: rgba(192, 57, 43, 0.25);
+  --input-border: #e0e0e0; /* soft gray */
+  --shadow-1: rgba(0, 0, 0, 0.2); /* slightly lighter shadows */
+  --shadow-2: rgba(0, 0, 0, 0.1);
+  --loading-bg-1: #f5eaea; /* cooler tone for loading shimmer */
+  --loading-bg-2: #ffffff;
+}
+
+
+
+
 
 * {
   padding: 0;
